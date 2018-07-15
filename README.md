@@ -1,2 +1,3 @@
 # hello-world
 My first repository in GitHub
+этом мой превый репозиторий на гитхабе, так что....
